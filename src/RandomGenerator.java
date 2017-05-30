@@ -4,7 +4,7 @@ public class RandomGenerator {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Generate 10 random integers between 1 and 6");
+		System.out.println("Generate 10 random integers between 5 and 100");
 		
 		
 		for(int i=0; i<=10; i++){
